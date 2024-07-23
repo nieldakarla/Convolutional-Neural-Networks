@@ -31,3 +31,5 @@ print(f'Loaded {len(data)} images.')
 # Check the shape of the data and labels
 print(f'Data shape: {data.shape}')
 print(f'Labels shape: {labels.shape}')
+
+
